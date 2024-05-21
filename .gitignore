@@ -1,0 +1,12 @@
+# Hugo build file
+.hugo_build.lock
+
+# Built site (will be built @ origin by Actions)
+public
+public/
+public/*
+
+# Generated resources
+resources
+resources/
+resources/*
