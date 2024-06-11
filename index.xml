@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hello! on Gabe (willitcode)</title>
+        <link>http://willitcode.github.io/</link>
+        <description>Recent content in Hello! on Gabe (willitcode)</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 21 May 2024 16:24:02 -0500</lastBuildDate><atom:link href="http://willitcode.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Test Post</title>
+        <link>http://willitcode.github.io/posts/test-post/</link>
+        <pubDate>Tue, 21 May 2024 16:24:02 -0500</pubDate>
+        
+        <guid>http://willitcode.github.io/posts/test-post/</guid>
+        <description>&lt;p&gt;This is a test post so that I can see how the post features are gonna work.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archive</title>
+        <link>http://willitcode.github.io/archive/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/archive/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Contact Me</title>
+        <link>http://willitcode.github.io/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/contact/</guid>
+        <description>&lt;p&gt;You can contact me through email at gabeschmitz [at] protonmail [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
+&lt;p&gt;I can also be contacted on Discord at @willitcode or on any of my other social medias.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Resumé</title>
+        <link>http://willitcode.github.io/resume/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/resume/</guid>
+        <description>&lt;p&gt;You can &lt;a class=&#34;link&#34; href=&#34;http://willitcode.github.io/resume.pdf&#34; &gt;download a copy of my resumé&lt;/a&gt;. Note that this version has some information (such as my address and contact info) removed for my privacy. If you&amp;rsquo;d like a copy that has this info, please &lt;a class=&#34;link&#34; href=&#34;http://willitcode.github.io/contact&#34; &gt;contact me&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://willitcode.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
