@@ -2,6 +2,7 @@
 title = 'Contact Me'
 comments = false
 menu = 'main'
+slug = 'contact'
 license = false
 +++
 

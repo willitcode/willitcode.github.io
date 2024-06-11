@@ -3,6 +3,7 @@ title: 'Resumé'
 comments: false
 readTime: false
 license: false
+slug: "resume"
 menu:
   main:
     weight: 10000
