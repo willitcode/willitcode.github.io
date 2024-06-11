@@ -1,0 +1,58 @@
+mainSections = ["posts"]
+rssFullContent = true
+#favicon = "/favicon.png"
+
+[footer]
+since = 2024
+#customText = ""
+
+[dateFormat]
+published = "02 January 2006"
+lastUpdated = "02 January 2006"
+
+[sidebar]
+subtitle = "Colrado College Class of 2028. Programmer. CyberSec Professional. Roboticist. Musician. Writer. Cyclist."
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+[article]
+headingAnchor = false
+math = false
+readingTime = true
+
+[article.license]
+enabled = true
+default = "Licensed under CC BY-NC-SA 4.0"
+
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 4
+
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.homepage]]
+type = "tag-cloud"
+
+[widgets.homepage.params]
+limit = 10
+
+[[widgets.page]]
+type = "toc"
+
+[comments]
+enabled = true
+provider = "utterances"
+
+[comments.utterances]
+repo = "willitcode/willitcode-blog-comment-container"
+issue-term = "pathname"
+theme = "preferred-color-scheme"

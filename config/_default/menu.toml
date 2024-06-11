@@ -1,0 +1,15 @@
+[[social]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/willitcode"
+
+[social.params]
+icon = "brand-github"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/gabriel-schmitz-44a40a313"
+
+[social.params]
+icon = "brand-linkedin"

@@ -1,0 +1,2 @@
+posts = "/posts/:slug/"
+pages = "/:slug/"
