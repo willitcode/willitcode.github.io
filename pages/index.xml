@@ -20,6 +20,8 @@
         
         <guid>http://willitcode.github.io/contact/</guid>
         <description>&lt;p&gt;You can contact me through email at gabe [at] willitcode [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re emailing me, my PGP public key is available &lt;a class=&#34;link&#34; href=&#34;https://keys.openpgp.org/vks/v1/by-fingerprint/87C7B8F013141211782258483777F7EED4E720D5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;on keys.openpgp.org&lt;/a&gt;. Download it from that link or via your favorite OpenPGP software and let&amp;rsquo;s encrypt our emails!&lt;/p&gt;
 &lt;p&gt;I can also be contacted on Discord at @willitcode or on any of my other social medias.&lt;/p&gt;
 </description>
         </item>
