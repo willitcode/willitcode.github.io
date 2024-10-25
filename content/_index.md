@@ -30,4 +30,4 @@ I'm also a first-year Computer Science student at [Colorado College](https://col
 - A bit of Swift
 
 ### Contact Me
-I can be contacted via email at gabe [at] willitcode [dot] com, or on any of my social medias.
+Please see [my contact page](/contact/).
