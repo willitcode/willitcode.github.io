@@ -21,12 +21,12 @@ I'm also a first-year Computer Science student at [Colorado College](https://col
 ### Languages/Tech Stacks I Know
 - Python
 - Java
+- Rust
 - General cybersecurity
 - HTML/CSS
 - Hugo (Which this site is built with!)
 - Basic shell
 - Sysadmin
-- A bit of Rust
 - A bit of Swift
 
 ### Contact Me
