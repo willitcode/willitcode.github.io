@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Talks on Gabe (willitcode)</title>
+        <link>http://willitcode.github.io/talks/</link>
+        <description>Recent content in Talks on Gabe (willitcode)</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://willitcode.github.io/talks/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Secure Coding Practices: Why They&#39;re Important and How You Can Implement Them</title>
+        <link>http://willitcode.github.io/talks/secure-coding/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/talks/secure-coding/</guid>
+        <description>&lt;p&gt;This is a talk I gave to the Colorado College Coding Club on 3 December, 2024. I went over the basics of cybersecurity and how they apply to programming, focusing on my experience as a sysadmin and cybersecurity professional and the common mistakes and vulnerabilities I see every day.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://cloud.willitcode.com/s/cSJLY4ZSFjx7r3f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;The slides are available here.&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
