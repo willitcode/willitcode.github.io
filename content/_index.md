@@ -22,6 +22,7 @@ I'm also a first-year Computer Science student at [Colorado College](https://col
 - Python
 - Java
 - Rust
+- Docker
 - Cybersecurity
 - Web development
 - Hugo (Which this site is built with!)
