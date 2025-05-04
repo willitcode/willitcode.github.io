@@ -1,6 +1,5 @@
 +++
 title = 'Blog'
-#layout = 'blog'
-#menu = 'main'
+menu = "main"
 draft = true
 +++
