@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tags on Gabe (willitcode)</title>
+        <title>Tags on Flora (willitcode)</title>
         <link>http://willitcode.github.io/tags/</link>
-        <description>Recent content in Tags on Gabe (willitcode)</description>
+        <description>Recent content in Tags on Flora (willitcode)</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://willitcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://willitcode.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Cybersecurity</title>
+        <link>http://willitcode.github.io/tags/cybersecurity/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/tags/cybersecurity/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Software Development</title>
+        <link>http://willitcode.github.io/tags/software-development/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/tags/software-development/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Sysadmin</title>
+        <link>http://willitcode.github.io/tags/sysadmin/</link>
+        <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://willitcode.github.io/tags/sysadmin/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

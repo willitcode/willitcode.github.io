@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Gabe (willitcode)</title>
+        <title>Pages on Flora (willitcode)</title>
         <link>http://willitcode.github.io/pages/</link>
-        <description>Recent content in Pages on Gabe (willitcode)</description>
+        <description>Recent content in Pages on Flora (willitcode)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="http://willitcode.github.io/pages/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archive</title>
@@ -19,7 +19,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://willitcode.github.io/contact/</guid>
-        <description>&lt;p&gt;You can contact me through email at gabe [at] willitcode [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
+        <description>&lt;p&gt;You can contact me through email at flora [at] willitcode [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re emailing me, my PGP public key is available &lt;a class=&#34;link&#34; href=&#34;https://keys.openpgp.org/vks/v1/by-fingerprint/87C7B8F013141211782258483777F7EED4E720D5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;on keys.openpgp.org&lt;/a&gt;. Download it from that link or via your favorite OpenPGP software and let&amp;rsquo;s encrypt our emails!&lt;/p&gt;
 &lt;p&gt;I can also be contacted on Discord at @willitcode or on any of my other social medias.&lt;/p&gt;

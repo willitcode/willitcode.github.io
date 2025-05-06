@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://willitcode.github.io/tags/cybersecurity/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://willitcode.github.io/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://willitcode.github.io/talks/secure-coding/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://willitcode.github.io/talks/</loc>
+    <loc>http://willitcode.github.io/tags/software-development/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://willitcode.github.io/posts/</loc>
-    <lastmod>2024-05-21T16:24:02-05:00</lastmod>
+    <loc>http://willitcode.github.io/tags/sysadmin/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://willitcode.github.io/posts/test-post/</loc>
-    <lastmod>2024-05-21T16:24:02-05:00</lastmod>
+    <loc>http://willitcode.github.io/tags/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://willitcode.github.io/talks/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://willitcode.github.io/archive/</loc>
   </url><url>
@@ -28,7 +34,5 @@
     <loc>http://willitcode.github.io/resume/</loc>
   </url><url>
     <loc>http://willitcode.github.io/search/</loc>
-  </url><url>
-    <loc>http://willitcode.github.io/tags/</loc>
   </url>
 </urlset>

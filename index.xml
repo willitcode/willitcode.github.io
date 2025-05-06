@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Hello! on Gabe (willitcode)</title>
+        <title>Hello! on Flora (willitcode)</title>
         <link>http://willitcode.github.io/</link>
-        <description>Recent content in Hello! on Gabe (willitcode)</description>
+        <description>Recent content in Hello! on Flora (willitcode)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://willitcode.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -15,15 +15,6 @@
         <description>&lt;p&gt;This is a talk I gave to the Colorado College Coding Club on 3 December, 2024. I went over the basics of cybersecurity and how they apply to programming, focusing on my experience as a sysadmin and cybersecurity professional and the common mistakes and vulnerabilities I see every day.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://cloud.willitcode.com/s/cSJLY4ZSFjx7r3f&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The slides are available here.&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Test Post</title>
-        <link>http://willitcode.github.io/posts/test-post/</link>
-        <pubDate>Tue, 21 May 2024 16:24:02 -0500</pubDate>
-        
-        <guid>http://willitcode.github.io/posts/test-post/</guid>
-        <description>&lt;p&gt;This is a test post so that I can see how the post features are gonna work.&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -40,7 +31,7 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>http://willitcode.github.io/contact/</guid>
-        <description>&lt;p&gt;You can contact me through email at gabe [at] willitcode [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
+        <description>&lt;p&gt;You can contact me through email at flora [at] willitcode [dot] com. (Not a mailto link or typed out normally to hopefully dodge some of the spambots).&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re emailing me, my PGP public key is available &lt;a class=&#34;link&#34; href=&#34;https://keys.openpgp.org/vks/v1/by-fingerprint/87C7B8F013141211782258483777F7EED4E720D5&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;on keys.openpgp.org&lt;/a&gt;. Download it from that link or via your favorite OpenPGP software and let&amp;rsquo;s encrypt our emails!&lt;/p&gt;
 &lt;p&gt;I can also be contacted on Discord at @willitcode or on any of my other social medias.&lt;/p&gt;

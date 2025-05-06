@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Talks on Flora (willitcode)</title>
-        <link>http://willitcode.github.io/talks/</link>
-        <description>Recent content in Talks on Flora (willitcode)</description>
+        <title>Cybersecurity on Flora (willitcode)</title>
+        <link>http://willitcode.github.io/tags/cybersecurity/</link>
+        <description>Recent content in Cybersecurity on Flora (willitcode)</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://willitcode.github.io/talks/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://willitcode.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Secure Coding Practices: Why They&#39;re Important and How You Can Implement Them</title>
         <link>http://willitcode.github.io/talks/secure-coding/</link>
         <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
