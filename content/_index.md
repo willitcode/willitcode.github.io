@@ -14,7 +14,7 @@ My name is Flora. I'm a programmer and a cybersecurity professional. I've worked
 I'm also a first-year Computer Science student at [Colorado College](https://coloradocollege.edu/).
 
 ### Certifications
-- [CompTIA Security+](https://www.credly.com/badges/4a9cfb95-7b47-4dac-b9d2-b6b6706548c3/public_url) (note that this was issued under the wrong name, I'm working to rectify that)
+- CompTIA Security+
 - OSHA 10-Hour Construction
 - Kansas State Seal of Biliteracy in Spanish and English
 
